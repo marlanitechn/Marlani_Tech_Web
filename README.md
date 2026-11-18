@@ -4,7 +4,7 @@ Marlani is a web development company dedicated to helping businesses establish a
 
 ## Live Demo
 
-[[[https://ndilam.github.io/Marlani_Tech_Web](https://marlanitechwebsite.vercel.app/)]
+[[https://ndilam.github.io/Marlani_Tech_Web](https://marlanitechwebsite.vercel.app/)]
 
 ## Project Structure
 
