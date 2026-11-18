@@ -34,5 +34,5 @@ MIT License
 
 **Marlani Tech**
 
-- Website: [https://ndilam.github.io/Marlani_Tech_Web/](https://ndilam.github.io/Marlani_Tech_Web/)
+- Website: [[https://ndilam.github.io/Marlani_Tech_Web](https://marlanitechwebsite.vercel.app/)/]
 - Email: marlani.techn@gmail.com
